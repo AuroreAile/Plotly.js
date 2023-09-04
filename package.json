@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "webpack": "^5.88.2"
+  },
+  "dependencies": {
+    "ify-loader": "^1.1.0"
+  }
+}
